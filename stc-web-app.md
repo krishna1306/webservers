@@ -45,7 +45,7 @@ docker images
 docker run -d --name <app-name> --network="host" <image-name>
 ```
 
-`<app-name>` can be anythin
+`<app-name>` can be anything
 
 `<image-name>` should correspond to an image in `docker images` (as created in the earlier step)
 
